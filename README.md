@@ -30,7 +30,7 @@ const user = {
       <td>
         <div align=center>
           <a href="#" title="">
-            <img align="right" width="434" src="https://github.com/vu-sudo/github-readme-stats" />
+            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&layout=compact&theme=vision-friendly-dark" />
           </a>
         </div>
       </td>
