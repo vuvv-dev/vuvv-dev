@@ -27,7 +27,7 @@ const user = {
         <img src="./asset/5296521_play_video_vlog_youtube_youtube logo_icon.svg" width = "50px" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn>
-        <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" target="_blank">
+        <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" width = "50px" target="_blank">
     </a>
     <a href="mailto: https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn>
         <img src="./asset/3377042_gmail_logo_media_social_icon.svg" width = "50px" target="_blank"> 
