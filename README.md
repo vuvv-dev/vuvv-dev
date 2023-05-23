@@ -3,8 +3,10 @@
 <p align = "center"><img src = "https://img.icons8.com/color/48/000000/vietnam-circular.png"></img></p>
 <p align = "center">A Front-End developer from VietNam</p>
 <div id="badges" align = "center">
-    <p>Contact to me: </p>
-  <div>
+    <p align = "center">Contact to me: </p>
+  <div style = {
+    display:flex;
+  }>
         <a href="your-linkedin-URL">
             <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" width = "30px" heigh = "30px" alt="LinkedIn Badge"/> Linkedin
         </a>
