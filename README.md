@@ -2,7 +2,7 @@
 <h1 align = "center">Front-End developer</h1>
 <p align = "center"><img src = "https://img.icons8.com/color/48/000000/vietnam-circular.png"></img></p>
 <p align = "center">A Front-End developer from VietNam</p>
-<div id="badges">
+<div id="badges" align = "center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
