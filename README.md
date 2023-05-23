@@ -4,9 +4,7 @@
 <p align = "center">A Front-End developer from VietNam</p>
 <div id="badges" align = "center">
     <p align = "center">Contact to me: </p>
-  <div style = {
-    display:flex;
-  }>
+  <div stype = "display:flex; justify-content:center; align-items:center;">
         <a href="your-linkedin-URL">
             <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" width = "30px" heigh = "30px" alt="LinkedIn Badge"/> Linkedin
         </a>
