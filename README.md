@@ -1,6 +1,6 @@
 <h1 align = "center" >Hi there 👋 I'm Vu Vo</h1>
 <h2 align = "center">Front-End developer</h2>
-<p>Country: Viet Nam<img src = "https://img.icons8.com/color/48/000000/vietnam-circular.png"></img></p>
+<p align = "center">Country: Viet Nam<img src = "https://img.icons8.com/color/48/000000/vietnam-circular.png"></img></p>
 
 <!--
 **vu-sudo/vu-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
