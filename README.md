@@ -17,17 +17,8 @@ const user = {
 
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
  <!-- https://github.com/anuraghazra/github-readme-stats -->
- <div align="center">
-    <a href="#" title="vu-sudo">
-        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&layout=compact&theme=vision-friendly-dark" />
-    </a>
- </div>
-  <div align="center">
-    <a href="#" title="">
-            <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=vu-sudo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
- </div>
-  <!-- <table align="center" style="width:100%;">
+
+   <table align="center" style="width:100%;">
     <tr>
       <td>
         <br>
@@ -39,13 +30,12 @@ const user = {
       </td>
       <td>
         <div align=center>
-          <a href="#" title="">
-            <img align="center" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=vu-sudo&theme=dark" />
+          <a href="#" title="vu-sudo">
+            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&layout=compact&theme=vision-friendly-dark" />
           </a>
         </div>
       </td>
     </tr>
-  </table> -->
-
+  </table>
 
 
