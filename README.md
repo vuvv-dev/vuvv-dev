@@ -1,5 +1,5 @@
 <h1 align = "center" >Hi there 👋 I'm Vu Vo</h1>
-<p align = "center"><img src = "https://img.icons8.com/color/48/000000/vietnam-circular.png"></img></p>
+<p align = "center"><img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg"></img></p>
 <p align = "center">A Software engineer from VietNam</p>
 <p align ="center"> <img src="https://komarev.com/ghpvc/?username=vu-sudo" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/vu-sudo" alt="tiennhm" /> </p>
 
