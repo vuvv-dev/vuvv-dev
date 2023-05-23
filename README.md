@@ -17,20 +17,20 @@ const user = {
 
 <h2>📌 You can find me with: </h2>
 <p align="center">
-    <a href="https://www.facebook.com/VanVu.070403" alt="Facebook">
-        <img src="./asset/5296499_fb_facebook_facebook logo_icon.svg" target="_blank" />
+    <a href="https://www.facebook.com/VanVu.070403"  alt="Facebook">
+        <img src="./asset/5296499_fb_facebook_facebook logo_icon.svg" width = "50px" target="_blank" />
     </a> 
-    <a href="https://www.instagram.com/vu.07.04/" alt=Instargram>
-        <img src="./asset/5296765_camera_instagram_instagram logo_icon.svg" target="_blank">
+    <a href="https://www.instagram.com/vu.07.04/"  alt=Instargram>
+        <img src="./asset/5296765_camera_instagram_instagram logo_icon.svg" width = "50px" target="_blank">
     </a>
-    <a href="https://www.youtube.com/channel/UCq6bM5MwZ1rsNMQJUGkxNig" alt=Youtube>
-        <img src="./asset/5296521_play_video_vlog_youtube_youtube logo_icon.svg" target="_blank">
+    <a href="https://www.youtube.com/channel/UCq6bM5MwZ1rsNMQJUGkxNig"  alt=Youtube>
+        <img src="./asset/5296521_play_video_vlog_youtube_youtube logo_icon.svg" width = "50px" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/vu-vu-26b748223/" alt=LinkedIn>
+    <a href="https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn>
         <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" target="_blank">
     </a>
-    <a href="mailto: https://www.linkedin.com/in/vu-vu-26b748223/" alt=LinkedIn>
-        <img src="./asset/3377042_gmail_logo_media_social_icon.svg" target="_blank"> 
+    <a href="mailto: https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn>
+        <img src="./asset/3377042_gmail_logo_media_social_icon.svg" width = "50px" target="_blank"> 
     </a>
 </p>
 
