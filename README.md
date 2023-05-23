@@ -24,7 +24,7 @@ const user = {
         <br>
           <div align=center>
             <a href="#" title="vu-sudo">
-              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&layout=compact&theme=vision-friendly-dark" />
+              <img width="315" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&layout=compact&theme=vision-friendly-dark" />
             </a>
           </div>
       </td>
