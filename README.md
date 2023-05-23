@@ -15,7 +15,7 @@ const user = {
 }
 ```
 
-<h2>📌 You can find me with: </h2>
+<h2 align = "center">📌 You can find me with: </h2>
 <p align="center">
     <a href="https://www.facebook.com/VanVu.070403"  alt="Facebook">
         <img src="./asset/5296499_fb_facebook_facebook logo_icon.svg" width = "50px" target="_blank" />
