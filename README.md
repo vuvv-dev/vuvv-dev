@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align = "center" >Hi there 👋 I'm Vu Vo - A Front-End developer</h1>
 
 <!--
 **vu-sudo/vu-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
