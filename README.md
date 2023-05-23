@@ -23,16 +23,16 @@ const user = {
         <br>
           <div align=center>
             <a href="#" title="vu-sudo">
-              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" />
+              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&layout=compact&theme=vision-friendly-dark" />
             </a>
           </div>
       </td>
       <td>
-        <div align=center>
+        <!-- <div align=center>
           <a href="#" title="">
-            <img align="right" width="434" src="https://github.com/anuraghazra/github-readme-stats" />
+            <img align="right" width="434" src="https://github.com//github-readme-stats" />
           </a>
-        </div>
+        </div> -->
       </td>
     </tr>
   </table>
