@@ -4,17 +4,17 @@
 <p align = "center">A Front-End developer from VietNam</p>
 <div id="badges" align = "center">
     <p align = "center">Contact to me: </p>
-  <div stype = "display:flex; justify-content:center; align-items:center;">
-        <a href="your-linkedin-URL">
+  <div style = "display:flex; justify-content:center; align-items:center;">
+        <a href="your-linkedin-URL" style="text-decorations:none">
             <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" width = "30px" heigh = "30px" alt="LinkedIn Badge"/> Linkedin
         </a>
-        <a href="your-youtube-URL">
+        <a href="your-youtube-URL" style="text-decorations:none">
             <img src="./asset/5296521_play_video_vlog_youtube_youtube logo_icon.svg" width = "30px" heigh = "30px" alt="Youtube Badge"/> Youtube
         </a>
-            <a href="your-youtube-URL">
+            <a href="your-youtube-URL" style="text-decorations:none">
             <img src="./asset/5296765_camera_instagram_instagram logo_icon.svg" width = "30px" heigh = "30px" alt="Youtube Badge"/> Instargram
         </a>
-        <a href="your-twitter-URL">
+        <a href="your-twitter-URL" style="text-decorations:none">
             <img src="./asset/5296499_fb_facebook_facebook logo_icon.svg" width = "30px" heigh = "30px" alt="Twitter Badge"/> Facebook
         </a>
   </div>
