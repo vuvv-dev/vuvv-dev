@@ -28,11 +28,11 @@ const user = {
           </div>
       </td>
       <td>
-        <!-- <div align=center>
+        <div align=center>
           <a href="#" title="">
-            <img align="right" width="434" src="https://github.com//github-readme-stats" />
+            <img align="right" width="434" src="https://github.com/vu-sudo/github-readme-stats" />
           </a>
-        </div> -->
+        </div>
       </td>
     </tr>
   </table>
