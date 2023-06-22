@@ -1,60 +1,643 @@
-<h1 align = "center" >Hi there👋 I'm Vu Vo</h1>
-<p align = "center"><img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img></p>
-<p align = "center">A Software engineer from VietNam</p>
-<p align ="center"> <img src="https://komarev.com/ghpvc/?username=vu-sudo" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/vu-sudo" alt="tiennhm" /> </p>
-
-
-## Who am I?
-```javascript
-const user = {
-    name: "Vo Van Vu",
-    age: 21,
-    currentUniversity: "FPT University",
-    currentTeam: "Dever Club",
-    website: "https://vu-cv-webs.vercel.app"
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "1uUZlGjmC3yq"
+   },
+   "source": [
+    "<h1 <font size = 5>Lab 2 Từ vấn đề đến cách tiếp cận</font></h1>\n",
+    "\n",
+    "Thời lượng: 120 phút"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "dhfJ3UD2C3y5"
+   },
+   "source": [
+    "## Giới thiệu\n",
+    "\n",
+    "Mục đích của các bài Lab này là củng cố các khái niệm mà chúng ta thảo luận trong các video của từng phần. Các bài Lab này sẽ xoay quanh trường hợp sử dụng của các công thức nấu ăn, chúng ta sẽ cùng nhau tìm hiểu quy trình các bước mà các nhà khoa học dữ liệu thường tuân theo khi giải quyết một vấn đề. Bắt đầu nào!\n",
+    "\n",
+    "Trong lab này, chúng ta sẽ bắt đầu tìm hiểu về phương pháp luận khoa học dữ liệu và tập trung vào các giai đoạn **Business Understanding (Hiểu biết về Nghiệp vụ)** và **Analytic Approach (Phương pháp tiếp cận phân tích)**.\n",
+    "\n",
+    "------------"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "JT_1v4MZC3y6"
+   },
+   "source": [
+    "## Mục lục\n",
+    "\n",
+    "<div class=\"alert alert-block alert-info\" style=\"margin-top: 20px\">\n",
+    "\n",
+    "1. [Hiểu biết về Nghiệp vụ](#0)<br>\n",
+    "2. [Phương pháp phân tích](#2) <br>\n",
+    "</div>\n",
+    "<hr>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "TLVAU10jC3y8"
+   },
+   "source": [
+    "# Business Understanding (Hiểu biết về Nghiệp vụ) <a id=\"0\"></a>\n",
+    "\n",
+    "Đây là **Phương pháp luận Khoa học Dữ liệu**, sơ đồ bắt đầu với hiểu biết về nghiệp vụ.\n",
+    "\n",
+    "<img src=\"https://ibm.box.com/shared/static/eyl60n09iige3eo5tac3dweqko2s58oo.png\" width=500>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "f2ong_6TC3y-"
+   },
+   "source": [
+    "#### Tại sao giai đoạn tìm hiểu biết nghiệp vụ lại quan trọng?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "IimUjASWK9Yh"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Nó giúp làm rõ mục tiêu của người đặt câu hỏi."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "NhFvDtEYC3zA"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem đáp án.\n",
+    "<!-- Đáp án đúng là:\n",
+    "Nó giúp làm rõ mục tiêu của người đặt câu hỏi.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "4Zhsc-7GC3zB"
+   },
+   "source": [
+    "#### Nhìn vào sơ đồ này, chúng ta nhận ra ngay hai đặc điểm nổi bật của phương pháp luận khoa học dữ liệu.\n",
+    "<img src = \"https://ibm.box.com/shared/static/6u3evi4h52e80cq78alqgza8nhfy8vhl.png\" width = 500> "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "ezRX9qZhC3zC"
+   },
+   "source": [
+    "#### Chúng là gì?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "h4NqKWgQL_Xr"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: \n",
+    "1. Lưu đồ có tính lặp lại cao.\n",
+    "2. Lưu đồ không bao giờ kết thúc."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "XDYnw5cqC3zD"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!-- Đáp án đúng là:\n",
+    "\\\\ 1. Lưu đồ có tính lặp lại cao.\n",
+    "\\\\ 2. Lưu đồ không bao giờ kết thúc.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "M5nhvtBbC3zD"
+   },
+   "source": [
+    "#### Bây giờ, hãy minh họa phương pháp luận khoa học dữ liệu bằng một case study (nghiên cứu điển hình)."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "n5HNoTdrC3zE"
+   },
+   "source": [
+    "Giả sử, chúng ta quan tâm đến việc tự động hóa quá trình tìm hiểu nguồn gốc ẩm thực của một món ăn hoặc công thức nhất định. Hãy áp dụng giai đoạn hiểu biết nghiệp vụ cho vấn đề này."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "bGqZW-TBC3zH"
+   },
+   "source": [
+    "#### Q. Ví dụ, tên các món ăn dưới đây được lấy từ thực đơn của một nhà hàng địa phương ở Toronto, Ontario - Canada.\n",
+    "\n",
+    "#### 1. Beast\n",
+    "#### 2. 2 PM\n",
+    "#### 3. 4 Minute"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "SibntWMDC3zH"
+   },
+   "source": [
+    "#### Bạn có biết những món ăn này thuộc nền ẩm thực của nước nào không?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "Y9I7H1VmOajc"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Nhật bản"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "qyFmAU9vC3zI"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!--Đáp án đúng là: \n",
+    "Đây là ẩm thực <strong>Nhật bản</strong>. Dưới đây là liên kết đến hình ảnh của các món ăn:\n",
+    "-->\n",
+    "\n",
+    "<!--\n",
+    "Beast: https://ibm.box.com/shared/static/5e7duvewfl5bk4317sna5skvdhrehro2.png\n",
+    "-->\n",
+    "\n",
+    "<!--\n",
+    "2PM: https://ibm.box.com/shared/static/5e7duvewfl5bk4317sna5skvdhrehro2.png\n",
+    "-->\n",
+    "\n",
+    "<!--\n",
+    "4 Minute: https://ibm.box.com/shared/static/f1fwvvwn4u8rx8tghep6zyj5pi6a8v8k.png\n",
+    "-->\n",
+    "\n",
+    "<!--\n",
+    "Ảnh chụp bởi Avlxyz: https://commons.wikimedia.org/wiki/Category:Photographs_by_Avlxyz\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "yVyghpJ1C3zK"
+   },
+   "source": [
+    "#### Q. Còn thông qua bề ngoài thì sao? Bạn có thể đoán được tên món ăn đó không? Có hay không."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "brrcpZELRDAG"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Không, đặc biệt là khi nói đến các quốc gia gần nhau về mặt địa lý, chẳng hạn như các quốc gia Scandinavia hoặc các quốc gia châu Á."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "vi5Xy8hGC3zL"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!--Đáp án đúng là: \n",
+    "Không, đặc biệt là khi nói đến các quốc gia gần nhau về mặt địa lý, chẳng hạn như các quốc gia Scandinavia hoặc các quốc gia châu Á.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "Ys36EeQuC3zL"
+   },
+   "source": [
+    "Tại thời điểm này, chúng ta nhận ra rằng việc tự động hóa quá trình xác định nguồn gốc ẩm thực của một món ăn rõ ràng không phải là một bài toán đơn giản vì chúng ta cần phải tìm ra một cách thức phù hợp với nhiều món ăn khác nhau và các biến tấu của chúng.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "dK5Wuk2CC3zM"
+   },
+   "source": [
+    "#### Q. Còn về việc xác định nguồn gốc ẩm thực của một món ăn dựa trên các thành phần của nó?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "kXjKwbXgV44p"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Có khả năng là có, vì có những thành phần cụ thể dành riêng cho mỗi món ăn."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "fAjKQT17C3zP"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!-- Đáp án đúng là: \n",
+    "Có khả năng là có, vì có những thành phần cụ thể dành riêng cho mỗi món ăn.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "CYkuihG-C3zQ"
+   },
+   "source": [
+    "Như bạn đã đoán, xác định nguồn gốc ẩm thực của một món ăn nhất định dựa trên các thành phần của nó có vẻ là một giải pháp khả thi vì một số nguyên liệu chỉ được dùng duy nhất cho một số nền ẩm thực nhất định. Ví dụ:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "Xy1sg0inC3zQ"
+   },
+   "source": [
+    "* Khi chúng ta nói về các món ăn **Mỹ**, thành phần đầu tiên mà mọi người nghĩ đến (hoặc ít nhất là trong tâm trí tôi = D) là thịt bò hoặc gà tây.\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Anh**, thành phần đầu tiên mà mọi người nghĩ đến là cá tuyết Haddock hoặc sốt bạc hà.\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Canada**, thành phần đầu tiên mà mọi người nghĩ đến là thịt xông khói hoặc poutine (món ăn gồm khoai tây chiên, nước sốt và phomai).\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Pháp**, thành phần đầu tiên mà mọi người nghĩ đến là bánh mì hoặc bơ.\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Ý**, thành phần đầu tiên mà mọi người nghĩ đến là cà chua hoặc phomai ricotta.\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Nhật Bản**, thành phần đầu tiên mà mọi người nghĩ đến là rong biển hoặc nước tương.\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Trung Quốc**, thành phần đầu tiên mà mọi người nghĩ đến là gừng hoặc tỏi.\n",
+    "\n",
+    "* Khi chúng ta nói về các món ăn **Ấn Độ**, thành phần đầu tiên mà mọi người nghĩ đến là masala hoặc ớt."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "bYDm00CBC3zR"
+   },
+   "source": [
+    "#### Theo đó, bạn có thể xác định nguồn gốc ẩm thực của món ăn có danh sách các nguyên liệu như bảng dưới đây không?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "y8saeZ4uC3zS"
+   },
+   "source": [
+    "<img src=\"https://ibm.box.com/shared/static/bs81fv2n5lidkv9hg827qn5s86gdk090.png\" width=600>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "FSTEjnyDXupw"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Ẩm thực Nhật vì công thức rất khá giống với món cuộn sushi."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "77o7M3BUC3zS"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!-- Đáp án đúng là: \n",
+    " Ẩm thực Nhật vì công thức rất khá giống với món cuộn sushi.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "TFEcSjusVRny"
+   },
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "zGc5sZ9bC3zT"
+   },
+   "source": [
+    "# Phương pháp phân tích <a id=\"2\"></a>\n",
+    "\n",
+    "<img src=\"https://ibm.box.com/shared/static/i19z7bijbksl5kkmm81ngg39y0ruzirh.png\" width=500>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "vUsOQiFbC3zV"
+   },
+   "source": [
+    "#### Vậy tại sao chúng ta lại quan tâm đến khoa học dữ liệu?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "kgGajGFTC3za"
+   },
+   "source": [
+    "Khi đã hiểu rõ vấn đề nghiệp vụ, nhà khoa học dữ liệu có thể xác định được phương pháp phân tích để giải quyết vấn đề. bước này đòi hỏi việc thể hiện vấn đề ở phương diện thống kê và học máy, để chủ thể hoặc các bên liên quan với vấn đề có thể xác định các kỹ thuật phù hợp nhất để đạt được kết quả mong muốn."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "P67E2yySC3za"
+   },
+   "source": [
+    "#### Tại sao giai đoạn tiếp cận phân tích lại quan trọng?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "F3R_R8b8gRc9"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Bởi vì nó giúp xác định loại mẫu (patterns) nào sẽ cần thiết để giải quyết vấn đề một cách hiệu quả nhất."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "PQETVcoyC3zb"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!-- Đáp án đúng là: \n",
+    "Bởi vì nó giúp xác định loại mẫu (patterns) nào sẽ cần thiết để giải quyết vấn đề một cách hiệu quả nhất.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "QSaKUcLiC3zc"
+   },
+   "source": [
+    "#### Hãy cùng khám phá một thuật toán học máy, cây quyết định (decision tree) và xem liệu đó có phải là kỹ thuật phù hợp để tự động hóa quá trình xác định nguồn gốc ẩm thực của một món ăn hoặc công thức nấu ăn nhất định, vừa đồng thời giúp chúng ta hiểu rõ lý do tại sao một công thức nhất định được cho là thuộc một loại hình ẩm thực nhất định."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "zGV661hRC3zc"
+   },
+   "source": [
+    "Đây là một cây quyết định mà một người không có kinh nghiệm có thể tạo theo cách thủ công. Bắt đầu từ đỉnh với tất cả các công thức nấu ăn cho tất cả các món ăn trên thế giới, nếu một công thức có chứa **rice (gạo, cơm)**, thì cây quyết định này sẽ phân loại nó là món ăn **Nhật Bản**. Nếu không, nó sẽ được phân loại là không phải là một món ăn **Nhật Bản**."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "AIPlniRNC3zd"
+   },
+   "source": [
+    "<img src=\"https://ibm.box.com/shared/static/1dzmelrcfsgba47rbbagbxiqisqgy63n.png\" width=500>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "uZDX15gZC3zd"
+   },
+   "source": [
+    "#### Đây có phải là cây quyết định tốt không? Có hay Không, và tại sao?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "id": "3YK7w_ITiU6n"
+   },
+   "outputs": [],
+   "source": [
+    "Câu trả lời của bạn: Không, bởi vì có rất nhiều món ăn từ các nền ẩm thực khác có sử dụng gạo làm nguyên liệu. Vì vậy, sử dụng gạo làm thành phần trong nút Quyết định (Decision node) để phân tách ra không phải là một lựa chọn tốt."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "8EoU441tC3zi"
+   },
+   "source": [
+    "Nhấp đúp vào __đây__ để xem lời giải.\n",
+    "<!-- Đáp án đúng là: \n",
+    "Không, bởi vì có rất nhiều món ăn từ các nền ẩm thực khác có sử dụng gạo làm nguyên liệu. Vì vậy, sử dụng gạo làm thành phần trong nút Quyết định (Decision node) để phân tách ra không phải là một lựa chọn tốt.\n",
+    "-->"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "DhuBR0QhC3zj"
+   },
+   "source": [
+    "#### Để xây dựng cây quyết định hiệu quả cho case study về công thức món ăn, chúng ta hãy dành chút thời gian để tìm hiểu thêm về cây quyết định."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "-JoBRR6cC3zj"
+   },
+   "source": [
+    "* Cây quyết định được xây dựng bằng cách sử dụng phân vùng đệ quy để phân loại dữ liệu.\n",
+    "* Khi phân vùng dữ liệu, cây quyết định sử dụng tính năng có tính dự đoán nhất (trong trường hợp này là nguyên liệu chế biến) để phân tách dữ liệu.\n",
+    "* **Dự đoán** dựa trên sự giảm entropy - thu được thông tin, hay *impurity* (không tinh khiết)."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "cH8-25ChC3zm"
+   },
+   "source": [
+    "#### Giả sử rằng dữ liệu của chúng ta bao gồm các tam giác màu xanh lá cây và hình tròn màu đỏ."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "XUu6uNrQC3zn"
+   },
+   "source": [
+    "Cây quyết định sau đây sẽ được coi là tối ưu hóa mô hình để phân loại dữ liệu thành một nút (node) cho hình tam giác màu xanh lá cây và một nút (node) cho hình tròn màu đỏ.\n",
+    "\n",
+    "<img src=\"https://ibm.box.com/shared/static/obwksbsin10mlg2m8x8ehe9xeyjfizqx.png\" width=400>\n",
+    "\n",
+    "Mỗi lớp trong các nút lá là hoàn toàn \"pure\" - nghĩa là mỗi nút lá chỉ chứa các điểm dữ liệu thuộc cùng một lớp.\n",
+    "\n",
+    "Mặt khác, cây quyết định sau đây là một ví dụ về trường hợp xấu nhất mà mô hình có thể xuất ra."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "-Wdz41HSC3zn"
+   },
+   "source": [
+    "<img src=\"https://ibm.box.com/shared/static/qenfaznfhwvvvlkjtzjirqgb4j5xx48l.png\" width=500>\n",
+    "\n",
+    "Mỗi nút lá chứa các điểm dữ liệu thuộc hai lớp dẫn đến nhiều điểm dữ liệu cuối cùng bị phân loại sai.\n",
+    "\n",
+    "#### Cây ngừng phát triển ở một nút khi:\n",
+    "* Pure hoặc gần pure.\n",
+    "* Không có biến nào còn lại để thiết lập thêm dữ liệu.\n",
+    "* Cây đã phát triển đến giới hạn kích thước đã chọn trước."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "3UYXyoOeC3zo"
+   },
+   "source": [
+    "#### Dưới đây là một số đặc điểm của cây quyết định:\n",
+    "\n",
+    "Điểm mạnh: \n",
+    "- Dễ biên dịch\n",
+    "- Có thể xử lý thuộc tính số hoặc phân loại\n",
+    "- Có thể xử lý dữ liệu thiếu\n",
+    "- Chỉ sử dụng các thuộc tính quan trọng nhất\n",
+    "- Có thể sử dụng trên dữ liệu kích thước lớn hoặc nhỏ \n",
+    "\n",
+    "Điểm yếu: \n",
+    "- Dễ overfit (quá khớp) hoặc underfit (chưa khớp mô hình)\n",
+    "- Không thể mô hình hóa tương tác giữa các thuộc tính\n",
+    "- Có thể gặp khó khi biên dịch các cây lớn\n",
+    "\n",
+    "<img src=\"https://ibm.box.com/shared/static/05mkemi191f6hbhw6f3ewrusckkgu861.png\" width=800>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "prznw226C3zp"
+   },
+   "source": [
+    "Bây giờ hãy sử dụng những gì chúng ta đã học về cây quyết định. Hãy thử và xây dựng một phiên bản tốt hơn của cây quyết định cho vấn đề công thức của chúng ta.\n",
+    "\n",
+    "<img src=\"https://ibm.box.com/shared/static/e1ok280uavy6k8u7loli59ftoz66kk1s.png\" width = 500>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "DueEmCT5C3zp"
+   },
+   "source": [
+    "Tôi hy vọng bạn đồng ý rằng cây quyết định ở trên là một phiên bản tốt hơn nhiều so với cây trước đó. Mặc dù chúng ta vẫn đang sử dụng **Rice** làm thành phần trong *nút quyết định* đầu tiên, nhưng các công thức nấu ăn được chia thành **Ẩm thực Châu Á** và **Không phải ẩm thực của Châu Á**. **Ẩm thực Châu Á** sau đó được chia thành **Nhật Bản** và **Không phải Nhật Bản** dựa trên thành phần **Wasabi**. Quá trình tách *nút lá* này tiếp tục cho đến khi mỗi *nút lá* pure, tức là chứa các công thức chỉ thuộc một nền ẩm thực."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "WO8kDZQfC3zq"
+   },
+   "source": [
+    "Theo đó, cây quyết định là một kỹ thuật hoặc thuật toán phù hợp cho nghiên cứu công thức của chúng ta."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "z_CK-cZ5C3zq"
+   },
+   "source": [
+    "### Cảm ơn bạn đã hoàn thành bài lab này!\n",
+    "\n",
+    "Nguồn: IBM"
+   ]
+  }
+ ],
+ "metadata": {
+  "colab": {
+   "collapsed_sections": [
+    "dhfJ3UD2C3y5",
+    "JT_1v4MZC3y6",
+    "4Zhsc-7GC3zB",
+    "-Wdz41HSC3zn"
+   ],
+   "name": "VN_Lab 2_Từ vấn đề đến cách tiếp cận.ipynb",
+   "provenance": []
+  },
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 1
 }
-```
-
-<h2 align = "center">📌 You can find me with: </h2>
-<p align="center">
-    <a href="https://www.facebook.com/VanVu.070403"  alt="Facebook">
-        <img src="./asset/5296499_fb_facebook_facebook logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank" />
-    </a> 
-    <a href="https://www.instagram.com/vu.07.04/"  alt=Instargram>
-        <img src="./asset/5296765_camera_instagram_instagram logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank">
-    </a>
-    <a href="https://www.youtube.com/channel/UCq6bM5MwZ1rsNMQJUGkxNig"  alt=Youtube>
-        <img src="./asset/5296521_play_video_vlog_youtube_youtube logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn>
-        <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank">
-    </a>
-    <a href="mailto: https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn>
-        <img src="./asset/3377042_gmail_logo_media_social_icon.svg" width = "50px" style={margin-right:10px;} target="_blank"> 
-    </a>
-</p>
-
- <h2 align="center">🔥 GitHub Stats 🔥</h2>
- <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-   <table align="center" style="width:100%;">
-    <tr>
-      <td>
-        <br>
-          <div align=center>
-            <a href="#" title="vu-sudo">
-              <img width="315" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu-sudo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-            </a>
-          </div>
-      </td>
-      <td>
-        <div align=center>
-          <a href="#" title="vu-sudo">
-            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vu-sudo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-
