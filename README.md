@@ -1,7 +1,7 @@
 <h1 align = "center" >Hi there👋 I'm a developer from Vietnam</h1>
 <p align = "center"><img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img></p>
 <p align = "center">A Software engineer from VietNam</p>
-<p align ="center"> <img src="https://komarev.com/ghpvc/?username=vu-sudo" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/vu-sudo" alt="tiennhm" /> </p>
+<p align ="center"> <img src="https://komarev.com/ghpvc/?username=vu-developer" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/vu-developer" alt="tiennhm" /> </p>
 
 
 ## Who am I?
