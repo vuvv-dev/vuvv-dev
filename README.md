@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaede-fdev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers&theme=onedark&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaede-fdev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align = "center" >Hi there👋 I'm a developer from Vietnam</h1>
 <!-- <a align = "center" href="https://github.com/DenverCoder1/readme-typing-svg">
     <img align = "center" src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Fullstack+Developer;&center=true&width=500&height=50">
