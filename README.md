@@ -17,7 +17,13 @@ const user = {
     age: 21,
     university: "FPT University",
     currentTeam: "Dever Club",
-    website: "メンテナンス - Bảo trì - Maintenance"
+    website: "メンテナンス - Bảo trì - Maintenance",
+    tech-used: {
+        front-end: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
+        back-end: ["ASP.net core", "Java Spring Boot", "Nodejs - Hono", "NestJs", "ExpressJs"],
+        arch: ["NLayer", "Verticel Slice", "React Page Module + StyledComponent"],
+        database: ["SQL Server", "MySql", "MongoDb", "PostgreSQL", "Redis Cache", "..."],
+    }
 }
 ```
 
