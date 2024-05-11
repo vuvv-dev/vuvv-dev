@@ -34,7 +34,7 @@ const user = {
 <!--         <img src="./asset/3377042_gmail_logo_media_social_icon.svg" width = "50px" style={margin-right:10px;} target="_blank">  -->
 <!--     </a> -->
 <!-- </p> -->
-## 🔥 Streak Stats
+<h2 align="center">🔥 Streaks Stats 🔥</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vu-developer&theme=tokyonight" alt="Kaede"  /></p>
 
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
