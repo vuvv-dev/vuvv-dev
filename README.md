@@ -2,6 +2,7 @@
 <!-- <a align = "center" href="https://github.com/DenverCoder1/readme-typing-svg">
     <img align = "center" src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Fullstack+Developer;&center=true&width=500&height=50">
 </a> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
     <img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/225px-Flag_of_Japan.svg.png" width ="80px"/> 
