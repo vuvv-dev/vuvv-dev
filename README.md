@@ -17,7 +17,6 @@ const user = {
     about: "ベトナムのデベロッパです。名前わカエデです",
     age: 21,
     university: "FPT University",
-    currentTeam: "Dever Club",
     website: "メンテナンス - Bảo trì - Maintenance",
     techUsed: {
         frontEnd: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
