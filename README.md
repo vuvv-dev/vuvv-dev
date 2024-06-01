@@ -21,7 +21,7 @@ const user = {
     techUsed: {
         frontEnd: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
         backEnd: ["ASP.net core", "Java Spring Boot", "Nodejs - Hono", "NestJs", "ExpressJs"],
-        arch: ["NLayer", "Verticel Slice", "Feat Module + StyledComponent"],
+        arch: ["NLayer", "Verticel Slice", "Feat Module + StyledComponent", "Antd + StyledComponent", "..."],
         database: ["SQL Server", "MySql", "MongoDb", "PostgreSQL", "Redis Cache", "..."],
     }
 }
