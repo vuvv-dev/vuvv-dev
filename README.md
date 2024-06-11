@@ -71,6 +71,6 @@ const user = {
     </tr>
   </table>
 
-  ![snake animation](https://github.com/kaede-fdev/kaede-fdev/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/<kaede-fdev>/<kaede-fdev>/blob/output/github-contribution-grid-snake2.svg)
 
 
