@@ -15,7 +15,7 @@
 ```javascript
 const user = {
     about: "ベトナムのデベロッパです。名前わカエデです",
-    age: 21,
+    age: 22,
     university: "FPT University",
     website: "メンテナンス - Bảo trì - Maintenance",
     techUsed: {
