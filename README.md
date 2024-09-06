@@ -8,6 +8,11 @@
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/225px-Flag_of_Japan.svg.png" width ="80px"/> 
 </p>
 <p align = "center">A Software engineer from VietNam</p>
+<p align = "center">
+    <span>
+        Coding is <span color="green">Fun</span>
+    </span>
+</p>
 <p align ="center"> <img src="https://komarev.com/ghpvc/?username=kaede-fdev" alt="kaede-fdev" /> <img src="https://badges.pufler.dev/repos/kaede-fdev" alt="kaede-fdev" /> </p>
 
 
