@@ -22,7 +22,7 @@ const user = {
     about: "ベトナムのデベロッパです。名前わカエデです",
     age: 22,
     university: "FPT University",
-    website: "メンテナンス - Bảo trì - Maintenance",
+    website: "メンテナンス - Maintenance",
     techUsed: {
         frontEnd: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
         backEnd: ["ASP.net core", "Java Spring Boot", "Nodejs - Hono", "NestJs", "ExpressJs"],
