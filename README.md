@@ -10,7 +10,7 @@
 <p align = "center">A Software engineer from VietNam</p>
 <p align = "center">
     <span>
-        Coding is <span color="green">Fun</span>
+        Coding is <span>Fun</span>
     </span>
 </p>
 <p align ="center"> <img src="https://komarev.com/ghpvc/?username=kaede-fdev" alt="kaede-fdev" /> <img src="https://badges.pufler.dev/repos/kaede-fdev" alt="kaede-fdev" /> </p>
