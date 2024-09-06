@@ -19,7 +19,7 @@
 ## Who am I?
 ```javascript
 const kaedeInfo = {
-    about: "ベトナムのデベロッパです。名前わカエデです",
+    about: "ベトナムのデベロッパです。名前わカエデです。日本は好きです！",
     age: 22,
     university: "FPT University",
     website: "メンテナンス - Maintenance",
