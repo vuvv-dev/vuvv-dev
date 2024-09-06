@@ -18,7 +18,7 @@
 
 ## Who am I?
 ```javascript
-const user = {
+const kaedeInfo = {
     about: "ベトナムのデベロッパです。名前わカエデです",
     age: 22,
     university: "FPT University",
