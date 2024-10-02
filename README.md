@@ -80,10 +80,6 @@ const kaedeInfo = {
 
 <table align="center">
   <tr>
-      <td align="center" width="96">
-          <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="./assets/swift.svg" alt="swift" width="40" height="40"/> </a> 
-      <br>Swift
-    </td>
     <td align="center" width="96">
         <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
       <br>OBJ-C
@@ -129,10 +125,6 @@ const kaedeInfo = {
     <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets//c.gif" alt="c" width="40" height="40"/> </a> 
       <br>C
-    </td>
-    <td align="center" width="96">
-          <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/> </a> 
-      <br>GraphQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
