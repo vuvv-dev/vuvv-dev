@@ -81,10 +81,6 @@ const kaedeInfo = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
-      <br>OBJ-C
-    </td>
-    <td align="center" width="96">
           <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./assets/android.gif" alt="android" width="40" height="40"/> </a> 
       <br>Android
     </td>
@@ -104,20 +100,8 @@ const kaedeInfo = {
           <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react.gif" alt="reactnative" width="40" height="40"/> </a> 
       <br>ReactNative
     </td>
-    <td align="center" width="96">
-          <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-      <br>Ionic
-    </td>
-    <td align="center" width="96">
-         <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
-      <br>Xamarin
-    </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Solidity
-    </td>
     <td align="center" width="96">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
       <br>C++
@@ -129,10 +113,6 @@ const kaedeInfo = {
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
       <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="less" />
-      <br>Less
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -207,6 +187,10 @@ const kaedeInfo = {
       <br>Flask
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="bash" />
+      <br>.Net
+    </td>
+    <td align="center" width="96">
           <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django.svg" alt="django" width="40" height="40"/> </a> 
       <br>Django
     </td>
@@ -217,10 +201,6 @@ const kaedeInfo = {
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
       <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" />
-      <br>RoR
     </td>
   </tr>
   <tr>
