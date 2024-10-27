@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaede-fdev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues,Experience&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vuvv-dev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues,Experience&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align = "center" >Hi there👋 I'm a developer from Vietnam</h1>
 <!-- <a align = "center" href="https://github.com/DenverCoder1/readme-typing-svg">
     <img align = "center" src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Fullstack+Developer;&center=true&width=500&height=50">
@@ -13,7 +13,7 @@
         Coding is <span>Fun</span>
     </span>
 </p>
-<p align ="center"> <img src="https://komarev.com/ghpvc/?username=kaede-fdev" alt="kaede-fdev" /> <img src="https://badges.pufler.dev/repos/kaede-fdev" alt="kaede-fdev" /> </p>
+<p align ="center"> <img src="https://komarev.com/ghpvc/?username=vuvv-dev" alt="vuvv-dev" /> <img src="https://badges.pufler.dev/repos/vuvv-dev" alt="vuvv-dev" /> </p>
 
 
 ## Who am I?
@@ -51,7 +51,7 @@ const kaedeInfo = {
 <!--     </a> -->
 <!-- </p> -->
 <h2 align="center">🔥 Streaks Stats 🔥</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaede-fdev&theme=tokyonight" alt="Kaede"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuvv-dev&theme=tokyonight" alt="Kaede"  /></p>
 
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
  <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -61,15 +61,15 @@ const kaedeInfo = {
       <td>
         <br>
           <div align=center>
-            <a href="#" title="kaede-fdev">
-              <img width="315" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaede-fdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+            <a href="#" title="vuvv-dev">
+              <img width="315" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
             </a>
           </div>
       </td>
       <td>
         <div align=center>
-          <a href="#" title="kaede-fdev">
-            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kaede-fdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+          <a href="#" title="vuvv-dev">
+            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vuvv-dev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
           </a>
         </div>
       </td>
