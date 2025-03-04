@@ -5,7 +5,6 @@
 </a> -->
 <p align = "center">
     <img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img>
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/225px-Flag_of_Japan.svg.png" width ="80px"/> 
 </p>
 <p align = "center">A Software engineer from VietNam</p>
 <p align = "center">
@@ -18,15 +17,15 @@
 
 ## Who am I?
 ```javascript
-const kaedeInfo = {
-    about: "ベトナムのデベロッパです。名前わカエデです。日本は好きです！",
+const myInfo = {
+    about: "Hi there, I am a Full-Stack Developer",
     age: 22,
-    university: "FPT University",
-    website: "メンテナンス - Maintenance",
+    education: "Bachelor of Engineering | Major in Software Engineering at FPT University",
+    website: "me.ohayo.io.vn",
     techUsed: {
-        frontEnd: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
-        backEnd: ["ASP.net core", "Java Spring Boot", "Nodejs - Hono", "NestJs", "ExpressJs"],
-        arch: ["NLayer", "Verticel Slice", "Feat Module + StyledComponent", "Antd + StyledComponent", "..."],
+        frontEndStack: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
+        backEndStack: ["ASP.net core", "Java Spring Boot", "Nodejs - Hono", "NestJs", "ExpressJs"],
+        patternAndDdesign: ["NLayer", "Verticel Slice", "Feat Module + StyledComponent", "Antd + StyledComponent", "..."],
         database: ["SQL Server", "MySql", "MongoDb", "PostgreSQL", "Redis Cache", "..."],
     }
 }
