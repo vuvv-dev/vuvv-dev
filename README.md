@@ -1,17 +1,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vuvv-dev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues,Experience&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-<h1 align = "center" >Hi there👋 I'm a developer from Vietnam</h1>
+<h1 align = "center" >Hi there👋 I'm a FullStack developer from Vietnam</h1>
 <!-- <a align = "center" href="https://github.com/DenverCoder1/readme-typing-svg">
     <img align = "center" src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Fullstack+Developer;&center=true&width=500&height=50">
 </a> -->
 <p align = "center">
     <img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img>
 </p>
-<p align = "center">A Software engineer from VietNam</p>
+<!-- <p align = "center">A Software engineer from VietNam</p>
 <p align = "center">
     <span>
         Coding is <span>Fun</span>
     </span>
-</p>
+</p> -->
 <p align ="center"> <img src="https://komarev.com/ghpvc/?username=vuvv-dev" alt="vuvv-dev" /> <img src="https://badges.pufler.dev/repos/vuvv-dev" alt="vuvv-dev" /> </p>
 
 
