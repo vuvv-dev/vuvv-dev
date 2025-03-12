@@ -51,7 +51,7 @@ const myInfo = {
 <!--     </a> -->
 <!-- </p> -->
 <h2 align="center">🔥 Streaks Stats 🔥</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuvv-dev&theme=tokyonight" alt="Kaede"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuvv-dev&theme=tokyonight" alt="vuvv-dev"  /></p>
 
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
  <!-- https://github.com/anuraghazra/github-readme-stats -->
