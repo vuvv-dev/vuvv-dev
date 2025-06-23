@@ -1,50 +1,67 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vuvv-dev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues,Experience&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center">Hi there 👋, I'm a Full-Stack Developer from Vietnam</h1>
+<div align="center">
+  <h1>Hi there 👋, I'm Vu Van Vu</h1>
+  <h3>Senior Full-Stack Developer | Software Architect | Tech Lead</h3>
 
-<p align="center">
-  <strong>Architecting scalable distributed systems and crafting exceptional digital experiences.</strong><br/>
-  <em>Specializing in enterprise-grade applications with a focus on performance, security, and maintainability.</em>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vo-van-vu-26b748223)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vuvo.dev.work@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=github&logoColor=white)](https://me.ohayo.io.vn)
+  [![Blog](https://img.shields.io/badge/Tech%20Blog-0A0A0A?logo=dev.to&logoColor=white)](https://me.ohayo.io.vn/blog)
+  
+  <p>
+    <strong>🚀 Architecting scalable distributed systems and crafting exceptional digital experiences</strong>
+  </p>
+  <p>
+    <em>💡 Turning complex business requirements into elegant technical solutions</em>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vuvv-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/vuvv-dev?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" alt="Open Source Love" />
+  </p>
 
-<p align = "center">
-    <img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img>
-</p>
+  <details open>
+    <summary><b>👨‍💻 Professional Summary</b></summary>
+    <p>
+      <strong>🏢 Currently:</strong> Senior Developer at FSoftware & Founder at Tekmium<br/>
+      <strong>🎓 Education:</strong> Software Engineering at FPT University<br/>
+      <strong>🌟 Expertise:</strong> Enterprise Architecture, Cloud Solutions, DevOps<br/>
+      <strong>📚 Learning:</strong> System Design, Cloud Native Architecture
+    </p>
 
-<p align ="center"> 
-    <img src="https://komarev.com/ghpvc/?username=vuvv-dev" alt="vuvv-dev" /> 
-    <img src="https://badges.pufler.dev/repos/vuvv-dev" alt="vuvv-dev" /> 
-</p>
+    <strong>Key Responsibilities:</strong>
+    <ul>
+      <li>Leading development of enterprise-scale applications</li>
+      <li>Designing and implementing microservices architectures</li>
+      <li>Establishing DevOps practices and CI/CD pipelines</li>
+      <li>Mentoring junior developers and promoting best practices</li>
+    </ul>
+  </details>
 
----
+  <details>
+    <summary><b>🛠️ Technical Proficiency</b></summary>
+    <p>
+      <strong>Core Expertise:</strong>
+      <ul>
+        <li>Full-Stack Development with Modern Frameworks</li>
+        <li>Cloud-Native & Distributed Systems Architecture</li>
+        <li>DevOps & Infrastructure Automation</li>
+        <li>Performance Optimization & Scalability</li>
+      </ul>
 
-## 🚀 About Me
-
-```javascript
-const myInfo = {
-    about: "Software Architect & Full-Stack Developer passionate about building scalable systems",
-    age: 22,
-    education: "Bachelor of Engineering | Major in Software Engineering at FPT University",
-    website: "me.ohayo.io.vn",
-    techUsed: {
-        frontEndStack: ["React.js", "React Native", "Next.js", "Vue.js", "TypeScript"],
-        backEndStack: ["ASP.NET Core", "NestJS", "Spring Boot", "Node.js", "WPF .NET Core"],
-        patternAndDesign: ["Clean Architecture", "DDD", "Microservices", "CQRS", "Event Sourcing"],
-        database: ["SQL Server", "MySQL", "MongoDB", "PostgreSQL", "Redis Cache"],
-        devOps: [
-            "Azure DevOps",
-            "CircleCI",
-            "GitHub Actions",
-            "Docker",
-            "Kubernetes",
-            "Jenkins"
-        ],
-        cloud: ["Azure Cloud", "Azure Functions", "Azure Service Bus", "Azure Storage"],
-        monitoring: ["Application Insights", "Sentry", "SonarQube", "ELK Stack", "Grafana"],
-        other: ["Agile/Scrum", "Jira", "Confluence", "Nx Monorepo", "Microservices"]
-    }
-}
-```
+      <strong>Tech Stack Highlights:</strong>
+      <p>
+        <strong>Frontend:</strong> Next.js, React, TypeScript, Tailwind CSS<br/>
+        <strong>Backend:</strong> .NET Core, Spring Boot, NestJS, Node.js<br/>
+        <strong>Cloud & DevOps:</strong> Azure, Docker, Kubernetes, CI/CD<br/>
+        <strong>Architecture:</strong> Microservices, Event-Driven, DDD, VSA<br/>
+        <strong>Databases:</strong> SQL Server, MongoDB, PostgreSQL, Redis
+      </p>
+    </p>
+  </details>
+</div>
 
 ## 💻 Technology Stack
 
@@ -107,29 +124,29 @@ const myInfo = {
 
 ## 📊 Performance Metrics
 
-<h2 align="center">🔥 Streaks Stats 🔥</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuvv-dev&theme=tokyonight" alt="vuvv-dev"  /></p>
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuvv-dev&theme=radical&hide_border=true" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vuvv-dev&theme=react-dark&hide_border=true" />
 
-<h2 align="center">🔥 GitHub Analytics 🔥</h2>
-<table align="center" style="width:100%;">
-    <tr>
-      <td>
-        <br>
-          <div align=center>
-            <a href="#" title="vuvv-dev">
-              <img width="315" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-            </a>
-          </div>
-      </td>
-      <td>
-        <div align=center>
-          <a href="#" title="vuvv-dev">
-            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vuvv-dev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-          </a>
-        </div>
-      </td>
-    </tr>
-</table>
+  <p>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=vuvv-dev&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=deprecated" />
+  </p>
+
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuvv-dev&theme=radical" />
+  </p>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=vuvv-dev&theme=radical&column=4&margin-w=15&margin-h=15" />
+  </p>
+</div>
+
+<!-- Activity Graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vuvv-dev&custom_title=Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vuvv-dev&icon=0&color=0)](https://visitcount.itsvg.in)
