@@ -137,25 +137,25 @@ const expertise = {
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-%23FF69B4?style=for-the-badge)
 
 <div align="center">
-  <!-- GitHub Stats and Top Languages side by side -->
+
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vuvv-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=📊 My GitHub Statistics" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=deprecated&custom_title=🔝 Most Used Languages" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vuvv-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=deprecated" alt="Top Languages" />
   </p>
 
   <!-- Profile Summary -->
   <p>
-    <img width="840em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuvv-dev&theme=tokyonight" alt="Profile Summary" />
+    <img width="840em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuvv-dev&theme=github_dark" alt="Profile Summary" />
   </p>
 
   <!-- GitHub Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=vuvv-dev&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vuvv-dev&theme=nord&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </p>
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vuvv-dev&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vuvv-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
