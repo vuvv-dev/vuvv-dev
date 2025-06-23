@@ -21,9 +21,11 @@
     <img src="https://img.shields.io/github/followers/vuvv-dev?label=Followers&style=social" alt="Followers" />
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" alt="Open Source Love" />
   </p>
+</div>
 
-  <details open>
-    <summary><b>👨‍💻 Professional Summary</b></summary>
+<details open>
+  <summary><b>👨‍💻 Professional Summary</b></summary>
+  <div>
     <p>
       <strong>🏢 Currently:</strong> Senior Developer at FSoftware & Founder at Tekmium<br/>
       <strong>🎓 Education:</strong> Software Engineering at FPT University<br/>
@@ -38,30 +40,30 @@
       <li>Establishing DevOps practices and CI/CD pipelines</li>
       <li>Mentoring junior developers and promoting best practices</li>
     </ul>
-  </details>
+  </div>
+</details>
 
-  <details>
-    <summary><b>🛠️ Technical Proficiency</b></summary>
-    <p>
-      <strong>Core Expertise:</strong>
-      <ul>
-        <li>Full-Stack Development with Modern Frameworks</li>
-        <li>Cloud-Native & Distributed Systems Architecture</li>
-        <li>DevOps & Infrastructure Automation</li>
-        <li>Performance Optimization & Scalability</li>
-      </ul>
+<details>
+  <summary><b>🛠️ Technical Proficiency</b></summary>
+  <div>
+    <strong>Core Expertise:</strong>
+    <ul>
+      <li>Full-Stack Development with Modern Frameworks</li>
+      <li>Cloud-Native & Distributed Systems Architecture</li>
+      <li>DevOps & Infrastructure Automation</li>
+      <li>Performance Optimization & Scalability</li>
+    </ul>
 
-      <strong>Tech Stack Highlights:</strong>
-      <p>
-        <strong>Frontend:</strong> Next.js, React, TypeScript, Tailwind CSS<br/>
-        <strong>Backend:</strong> .NET Core, Spring Boot, NestJS, Node.js<br/>
-        <strong>Cloud & DevOps:</strong> Azure, Docker, Kubernetes, CI/CD<br/>
-        <strong>Architecture:</strong> Microservices, Event-Driven, DDD, VSA<br/>
-        <strong>Databases:</strong> SQL Server, MongoDB, PostgreSQL, Redis
-      </p>
-    </p>
-  </details>
-</div>
+    <strong>Tech Stack Highlights:</strong>
+    <div>
+      <strong>Frontend:</strong> Next.js, React, TypeScript, Tailwind CSS<br/>
+      <strong>Backend:</strong> .NET Core, Spring Boot, NestJS, Node.js<br/>
+      <strong>Cloud & DevOps:</strong> Azure, Docker, Kubernetes, CI/CD<br/>
+      <strong>Architecture:</strong> Microservices, Event-Driven, DDD, VSA<br/>
+      <strong>Databases:</strong> SQL Server, MongoDB, PostgreSQL, Redis
+    </div>
+  </div>
+</details>
 
 ## 💻 Technology Stack
 
@@ -69,9 +71,11 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&
+logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&
+logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -79,39 +83,54 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&
+logoColor=%2361DAFB)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&
+logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&
+logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&
+logo=reacthookform&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&
+logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![HeadlessUI](https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=black)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&
+logoColor=white)
+![HeadlessUI](https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=headlessui&
+logoColor=black)
 
 ### Database & Storage
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&
+logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&
+logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4.svg?style=for-the-badge&
+logo=microsoftazure&logoColor=white)
 
 ### Cloud & CI/CD
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&
+logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&
+logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&
+logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&
+logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&
+logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Scalar](https://img.shields.io/badge/Scalar-FF4088?style=for-the-badge&logo=scalar&logoColor=white)
@@ -121,8 +140,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-%23FF69B4?style=for-the-badge)
-
-## 📊 Performance Metrics
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
