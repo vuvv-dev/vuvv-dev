@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=vuvv-dev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues,Experience&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
   <h1>Hi there 👋, I'm Vu Van Vu</h1>
   <h3>Senior Full-Stack Developer | Software Architect | Tech Lead</h3>
@@ -118,7 +116,7 @@
   
   <!-- Streak Stats -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuvv-dev&theme=github_dark&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuvv-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
   </p>
 
   <!-- GitHub Stats and Top Languages side by side -->
