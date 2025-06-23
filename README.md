@@ -41,19 +41,10 @@ const expertise = {
     primary: ['.NET', 'Spring', 'NestJS', 'Express.js'],
     languages: ['TypeScript', 'C#', 'Java', 'Go'],
   },
-  database: {
-    sql: ['SQL Server', 'MySQL', 'PostgreSQL'],
-    nosql: ['MongoDB', 'Redis', 'Azure Cosmos DB'],
-  },
   devops: {
     cloud: ['Azure', 'Azure DevOps'],
     ci_cd: ['CircleCI', 'GitHub Actions', 'Jenkins'],
     containers: ['Docker', 'Kubernetes'],
-  },
-  tools: {
-    development: ['Git', 'GitHub', 'Jira', 'Confluence'],
-    monitoring: ['Swagger', 'Grafana', 'Scalar'],
-    design: ['Figma', 'UI/UX Design']
   }
 };
 ```
