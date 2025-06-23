@@ -1,62 +1,117 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vuvv-dev&title=Stars,Followers,Commits,Repositories,Reviews,MultipleLang,PullRequest,Followers,Issues,Experience&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-<h1 align = "center" >Hi there👋 I'm a FullStack developer from Vietnam</h1>
-<!-- <a align = "center" href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img align = "center" src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Fullstack+Developer;&center=true&width=500&height=50">
-</a> -->
+
+<h1 align="center">Hi there 👋, I'm a Full-Stack Developer from Vietnam</h1>
+
+<p align="center">
+  <strong>Architecting scalable distributed systems and crafting exceptional digital experiences.</strong><br/>
+  <em>Specializing in enterprise-grade applications with a focus on performance, security, and maintainability.</em>
+</p>
+
 <p align = "center">
     <img src = "./asset/Wikipedia-Flags-VN-Vietnam-Flag.svg" width="80px"></img>
 </p>
-<!-- <p align = "center">A Software engineer from VietNam</p>
-<p align = "center">
-    <span>
-        Coding is <span>Fun</span>
-    </span>
-</p> -->
-<p align ="center"> <img src="https://komarev.com/ghpvc/?username=vuvv-dev" alt="vuvv-dev" /> <img src="https://badges.pufler.dev/repos/vuvv-dev" alt="vuvv-dev" /> </p>
 
+<p align ="center"> 
+    <img src="https://komarev.com/ghpvc/?username=vuvv-dev" alt="vuvv-dev" /> 
+    <img src="https://badges.pufler.dev/repos/vuvv-dev" alt="vuvv-dev" /> 
+</p>
 
-## Who am I?
+---
+
+## 🚀 About Me
+
 ```javascript
 const myInfo = {
-    about: "Hi there, I am a Full-Stack Developer",
+    about: "Software Architect & Full-Stack Developer passionate about building scalable systems",
     age: 22,
     education: "Bachelor of Engineering | Major in Software Engineering at FPT University",
     website: "me.ohayo.io.vn",
     techUsed: {
-        frontEndStack: ["Reactjs", "ReactNative", "Nextjs", "Vuejs", "..."],
-        backEndStack: ["ASP.net core", "Java Spring Boot", "Nodejs - Hono", "NestJs", "ExpressJs"],
-        patternAndDdesign: ["NLayer", "Verticel Slice", "Feat Module + StyledComponent", "Antd + StyledComponent", "..."],
-        database: ["SQL Server", "MySql", "MongoDb", "PostgreSQL", "Redis Cache", "..."],
-        other: ["Docker", "CI/CI", "Jira", "Vercel", "Figma", "Nx", "SonarQ", "Sentry", "..."]
+        frontEndStack: ["React.js", "React Native", "Next.js", "Vue.js", "TypeScript"],
+        backEndStack: ["ASP.NET Core", "NestJS", "Spring Boot", "Node.js", "WPF .NET Core"],
+        patternAndDesign: ["Clean Architecture", "DDD", "Microservices", "CQRS", "Event Sourcing"],
+        database: ["SQL Server", "MySQL", "MongoDB", "PostgreSQL", "Redis Cache"],
+        devOps: [
+            "Azure DevOps",
+            "CircleCI",
+            "GitHub Actions",
+            "Docker",
+            "Kubernetes",
+            "Jenkins"
+        ],
+        cloud: ["Azure Cloud", "Azure Functions", "Azure Service Bus", "Azure Storage"],
+        monitoring: ["Application Insights", "Sentry", "SonarQube", "ELK Stack", "Grafana"],
+        other: ["Agile/Scrum", "Jira", "Confluence", "Nx Monorepo", "Microservices"]
     }
 }
 ```
 
+## 💻 Technology Stack
 
-<!-- <p align="center"> -->
-<!--     <a href="https://www.facebook.com/VanVu.070403"  alt="Facebook"> -->
-<!--         <img src="./asset/5296499_fb_facebook_facebook logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank" /> -->
-<!--     </a>  -->
-<!--     <a href="https://www.instagram.com/vu.07.04/"  alt=Instargram> -->
-<!--         <img src="./asset/5296765_camera_instagram_instagram logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank"> -->
-<!--     </a> -->
-<!--     <a href="https://www.youtube.com/channel/UCq6bM5MwZ1rsNMQJUGkxNig"  alt=Youtube> -->
-<!--         <img src="./asset/5296521_play_video_vlog_youtube_youtube logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank"> -->
-<!--     </a> -->
-<!--     <a href="https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn> -->
-<!--         <img src="./asset/5296501_linkedin_network_linkedin logo_icon.svg" width = "50px" style={margin-right:10px;} target="_blank"> -->
-<!--     </a> -->
-<!--     <a href="mailto: https://www.linkedin.com/in/vu-vu-26b748223/"  alt=LinkedIn> -->
-<!--         <img src="./asset/3377042_gmail_logo_media_social_icon.svg" width = "50px" style={margin-right:10px;} target="_blank">  -->
-<!--     </a> -->
-<!-- </p> -->
+### Backend Development
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![HeadlessUI](https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=black)
+
+### Database & Storage
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Cloud & CI/CD
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Scalar](https://img.shields.io/badge/Scalar-FF4088?style=for-the-badge&logo=scalar&logoColor=white)
+
+### Other Skills
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-%23FF69B4?style=for-the-badge)
+
+## 📊 Performance Metrics
+
 <h2 align="center">🔥 Streaks Stats 🔥</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuvv-dev&theme=tokyonight" alt="vuvv-dev"  /></p>
 
- <h2 align="center">🔥 GitHub Stats 🔥</h2>
- <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-   <table align="center" style="width:100%;">
+<h2 align="center">🔥 GitHub Analytics 🔥</h2>
+<table align="center" style="width:100%;">
     <tr>
       <td>
         <br>
@@ -74,7 +129,10 @@ const myInfo = {
         </div>
       </td>
     </tr>
-  </table>
+</table>
+
+---
+[![](https://visitcount.itsvg.in/api?id=vuvv-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
