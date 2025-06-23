@@ -109,17 +109,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-%23FF69B4?style=for-the-badge)
 
-## 📊 Performance Metrics
-
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Streak Stats -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuvv-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
-  </p>
 
-  <!-- GitHub Stats and Top Languages side by side -->
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vuvv-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=deprecated" alt="Top Languages" />
