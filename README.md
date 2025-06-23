@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Vu Van Vu</h1>
+  <h1>Hi there 👋, I'm Vu Vo (James)</h1>
   <h3>Senior Full-Stack Developer | Software Architect | Tech Lead</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vo-van-vu-26b748223)
@@ -23,32 +23,62 @@
 
 ## 👨‍💻 Professional Summary
 
-**🏢 Currently:** Senior Developer at FSoftware & Founder at Tekmium  
-**🎓 Education:** Software Engineering at FPT University  
-**🌟 Expertise:** Enterprise Architecture, Cloud Solutions, DevOps  
-**📚 Learning:** System Design, Cloud Native Architecture
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### Key Responsibilities
-- Leading development of enterprise-scale applications
-- Designing and implementing microservices architectures
-- Establishing DevOps practices and CI/CD pipelines
-- Mentoring junior developers and promoting best practices
+**🏢 Currently:** Senior Frontend Developer at FSoftware & Founder at Tekmium  
+**🎓 Education:** Software Engineering at FPT University  
+**🌟 Expertise:** Modern Frontend Architecture, UI/UX Design, Cloud Solutions  
+**📚 Learning:** Advanced Animation, WebGL, Cloud Native Architecture
+
+### 🎯 Core Focus Areas
+```typescript
+const expertise = {
+  frontend: {
+    frameworks: ['React', 'Next.js', 'Vue.js', 'React Native'],
+    ui: ['TailwindCSS', 'MUI', 'Ant Design', 'HeadlessUI'],
+    state: ['React Query', 'React Router', 'React Hook Form'],
+    build: ['Vite', 'Three.js'],
+  },
+  backend: {
+    primary: ['.NET', 'Spring', 'NestJS', 'Express.js'],
+    languages: ['TypeScript', 'C#', 'Java', 'Go'],
+  },
+  database: {
+    sql: ['SQL Server', 'MySQL', 'PostgreSQL'],
+    nosql: ['MongoDB', 'Redis', 'Azure Cosmos DB'],
+  },
+  devops: {
+    cloud: ['Azure', 'Azure DevOps'],
+    ci_cd: ['CircleCI', 'GitHub Actions', 'Jenkins'],
+    containers: ['Docker', 'Kubernetes'],
+  },
+  tools: {
+    development: ['Git', 'GitHub', 'Jira', 'Confluence'],
+    monitoring: ['Swagger', 'Grafana', 'Scalar'],
+    design: ['Figma', 'UI/UX Design']
+  }
+};
+```
+
+### 💼 Key Responsibilities
+- Leading frontend architecture and development
+- Building scalable and reusable component systems
+- Optimizing application performance and user experience
+- Mentoring developers in frontend best practices
+- Collaborating with UI/UX teams for optimal design implementation
 
 ## 🛠️ Technical Proficiency
 
-### Core Expertise
-- Full-Stack Development with Modern Frameworks
-- Cloud-Native & Distributed Systems Architecture
-- DevOps & Infrastructure Automation
-- Performance Optimization & Scalability
+### 🎨 Frontend Mastery
+![React](https://img.shields.io/badge/React-Expert-20232a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-Expert-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Tech Stack Highlights
-
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Backend:** .NET Core, Spring Boot, NestJS, Node.js  
-**Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD  
-**Architecture:** Microservices, Event-Driven, DDD, VSA  
-**Databases:** SQL Server, MongoDB, PostgreSQL, Redis
+### ⚡ Supporting Skills
+![Backend](https://img.shields.io/badge/Backend-.NET_|_Node.js-success?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-Azure_|_Docker-informational?style=flat-square)
+![Database](https://img.shields.io/badge/Database-SQL_|_MongoDB-yellow?style=flat-square)
 
 ## 💻 Technology Stack
 
@@ -58,7 +88,6 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
