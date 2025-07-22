@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Professional Summary
 
-**🏢 Currently:** Senior Frontend Developer at FSoftware & Founder at Tekmium  
+**🏢 Currently:** Senior Frontend Developer at FSoftware & Co-Founder at Tekmium  
 **🎓 Education:** Software Engineering at FPT University  
 **🌟 Expertise:** Modern Frontend Architecture, UI/UX Design, Cloud Solutions  
 **📚 Learning:** Advanced Animation, WebGL, Cloud Native Architecture
