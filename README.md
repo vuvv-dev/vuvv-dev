@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋, I'm Vu Vo (James)</h1>
-  <h3>Senior Full-Stack Developer | Software Architect | Tech Lead</h3>
+  <h3>Software Engineer</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vo-van-vu-26b748223)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vuvo.dev.work@gmail.com)
@@ -25,7 +25,7 @@
 
 **🏢 Currently:** Senior Frontend Developer at FSoftware & Co-Founder at Tekmium  
 **🎓 Education:** Software Engineering at FPT University  
-**🌟 Expertise:** Modern Frontend Architecture, UI/UX Design, Cloud Solutions  
+**🌟 Expertise:** Modern Frontend Architecture, Native Desktop & Mobile Apps, UI/UX Design, Cloud Solutions  
 **📚 Learning:** Advanced Animation, WebGL, Cloud Native Architecture
 
 ### 🎯 Core Focus Areas
@@ -37,9 +37,17 @@ const expertise = {
     state: ['React Query', 'React Router', 'React Hook Form'],
     build: ['Vite', 'Three.js'],
   },
+  desktop: {
+    windows: ['WinUI 3', 'Windows App SDK', 'WPF'],
+    macos: ['SwiftUI', 'macOS Apps'],
+  },
+  mobile: {
+    ios: ['SwiftUI', 'iOS Apps'],
+    crossPlatform: ['React Native'],
+  },
   backend: {
     primary: ['.NET', 'Spring', 'NestJS', 'Express.js'],
-    languages: ['TypeScript', 'C#', 'Java', 'Go'],
+    languages: ['TypeScript', 'C#', 'Java', 'Go', 'Swift'],
   },
   devops: {
     cloud: ['Azure', 'Azure DevOps'],
@@ -52,6 +60,7 @@ const expertise = {
 ### 💼 Key Responsibilities
 - Leading frontend architecture and development
 - Building scalable and reusable component systems
+- Developing native desktop and mobile apps for Windows, macOS and iOS
 - Optimizing application performance and user experience
 - Mentoring developers in frontend best practices
 - Collaborating with UI/UX teams for optimal design implementation
@@ -78,6 +87,7 @@ const expertise = {
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend Development
@@ -94,6 +104,15 @@ const expertise = {
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![HeadlessUI](https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=black)
+
+### Desktop & Mobile Development
+![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows App SDK](https://img.shields.io/badge/Windows%20App%20SDK-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 
 ### Database & Storage
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
