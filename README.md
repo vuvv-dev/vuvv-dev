@@ -158,9 +158,13 @@ const expertise = {
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=deprecated" alt="Top Languages" />
   </p>
 
-  <!-- GitHub Streak -->
+  <!-- Contribution Snake -->
   <p>
-    <img src="https://streak-stats.demolab.com/?user=vuvv-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vuvv-dev/vuvv-dev/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vuvv-dev/vuvv-dev/output/github-snake.svg" />
+      <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vuvv-dev/vuvv-dev/output/github-snake-dark.svg" />
+    </picture>
   </p>
 </div>
 
