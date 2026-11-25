@@ -19,6 +19,11 @@
     <img src="https://img.shields.io/github/followers/vuvv-dev?label=Followers&style=social" alt="Followers" />
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" alt="Open Source Love" />
   </p>
+
+  <!-- GitHub Trophies -->
+  <p>
+    <img src="https://github-trophies.vercel.app/?username=vuvv-dev&theme=nord&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </p>
 </div>
 
 ## 👨‍💻 Professional Summary
@@ -156,11 +161,6 @@ const expertise = {
   <!-- Profile Summary -->
   <p>
     <img width="840em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuvv-dev&theme=github_dark" alt="Profile Summary" />
-  </p>
-
-  <!-- GitHub Trophies -->
-  <p>
-    <img src="https://github-trophies.vercel.app/?username=vuvv-dev&theme=nord&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </p>
 </div>
 
