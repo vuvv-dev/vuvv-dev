@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Professional Summary
 
-**🏢 Currently:** Software Engineer  
+**🏢 Currently:** Software Engineer at FSoftware & Co-Founder at Tekmium  
 **🎓 Education:** Software Engineering at FPT University  
 **🌟 Expertise:** Modern Frontend Architecture, Native Desktop & Mobile Apps, UI/UX Design, Cloud Solutions  
 **📚 Learning:** Advanced Animation, WebGL, Cloud Native Architecture
