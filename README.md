@@ -158,9 +158,9 @@ const expertise = {
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvv-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=deprecated" alt="Top Languages" />
   </p>
 
-  <!-- Profile Summary -->
+  <!-- GitHub Streak -->
   <p>
-    <img width="840em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuvv-dev&theme=github_dark" alt="Profile Summary" />
+    <img src="https://streak-stats.demolab.com/?user=vuvv-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
 
