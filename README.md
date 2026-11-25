@@ -160,7 +160,7 @@ const expertise = {
 
   <!-- GitHub Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=vuvv-dev&theme=nord&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=vuvv-dev&theme=nord&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </p>
 </div>
 
